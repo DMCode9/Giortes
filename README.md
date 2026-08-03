@@ -1,4 +1,8 @@
-# 📅 Γιορτές - Το πιο πλήρες, όμορφο & σύγχρονο Εορτολόγιο
+<p align="center">
+  <img src="logo.png" width="180" height="180" alt="Λογότυπο Εφαρμογής" />
+</p>
+
+# Γιορτές - Το πιο όμορφο & σύγχρονο Εορτολόγιο
 
 [![Αρχείο APK](https://img.shields.io/badge/Download-APK-brightgreen.svg?style=for-the-badge&logo=android)](releases/latest)
 [![Έκδοση](https://img.shields.io/badge/Version-5.1-blue.svg?style=for-the-badge)](releases/latest)
@@ -41,6 +45,23 @@
 ### 🎨 Δυναμικός & Έξυπνος Σχεδιασμός
 * **Ζωντανό Background**: Το περιβάλλον της εφαρμογής αλλάζει χρώματα και εικόνες ανάλογα με την ώρα της ημέρας και τις καιρικές συνθήκες.
 * **Dark Mode**: Πλήρως βελτιστοποιημένο σκοτεινό θέμα για ξεκούραστη χρήση κατά τις νυχτερινές ώρες.
+
+---
+
+## 📸 Στιγμιότυπα Εφαρμογής (Screenshots)
+
+<p align="center">
+  <img src="screenshot1.png" width="200" alt="Μην χάσεις καμία γιορτή" />
+  <img src="screenshot2.png" width="200" alt="Ζωντανεύει στην οθόνη σου" />
+  <img src="screenshot3.png" width="200" alt="Εθνικές εορτές και αργίες" />
+  <img src="screenshot4.png" width="200" alt="Γιορτές & γενέθλια επαφών" />
+</p>
+<p align="center">
+  <img src="screenshot5.png" width="200" alt="Παγκόσμιες ημέρες" />
+  <img src="screenshot6.png" width="200" alt="Ανακάλυψε κάθε όνομα" />
+  <img src="screenshot7.png" width="200" alt="Αστρονομικά δεδομένα" />
+  <img src="screenshot8.png" width="200" alt="Εποχές & ισημερίες" />
+</p>
 
 ---
 
